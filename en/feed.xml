@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator>
+  <link href="https://clip-os.org/en/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://clip-os.org/" rel="alternate" type="text/html" />
+  <updated>2020-05-29T12:11:02+02:00</updated>
+  <id>https://clip-os.org/</id>
+
+  
+    <title type="html">CLIP OS</title>
+  
+
+  
+
+  
+    <author>
+        <name>CLIP OS development team</name>
+      
+      
+    </author>
+  
+
+  
+  <entry>
+      <title type="html">CLIP OS 5 beta release!</title>
+      <link href="https://clip-os.org/en/news/2019/12/10/clipos-5-beta-release/" rel="alternate" type="text/html" title="CLIP OS 5 beta release!" />
+      <published>2019-12-10T11:00:00+01:00</published>
+      <updated>2019-12-10T11:00:00+01:00</updated>
+      <id>https://clip-os.org/en/news/2019/12/10/clipos-5-beta-release</id>
+      <content type="html" xml:base="https://clip-os.org/en/news/2019/12/10/clipos-5-beta-release/">&lt;p&gt;The CLIP OS development team is glad to announce the beta release of CLIP OS 5!&lt;/p&gt;
+
+&lt;p&gt;Here are the highlights of this release:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TPM 2.0 support to transparently encrypt the Core State partition;&lt;/li&gt;
+  &lt;li&gt;Safe, in-background, atomic and automated system updates;&lt;/li&gt;
+  &lt;li&gt;IPsec integration and network isolation enforcement.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A detailed presentation of the changes introduced in this version is available
+on the &lt;a href=&quot;/en/talks&quot;&gt;Talks&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;p&gt;The development infrastructure is now fully available with:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Code review (using Gerrit): &lt;a href=&quot;https://review.clip-os.org&quot;&gt;review.clip-os.org&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;Continuous integration (using GitLab CI): &lt;a href=&quot;https://gitlab.com/CLIPOS/ci&quot;&gt;gitlab.com/CLIPOS/ci&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;Nightly builds are available at: &lt;a href=&quot;https://files.clip-os.org/&quot;&gt;files.clip-os.org&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can now easily try the latest nightly build of CLIP OS using the
+instructions from the
+&lt;a href=&quot;https://docs.clip-os.org/toolkit/quick-try.html&quot;&gt;quick try guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, the CLIP OS development team will be available at the Paris Open
+Source Summit on December 10 &amp;amp; 11 at the ANSSI stand to answer questions.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>CLIP OS development team</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">The CLIP OS development team is glad to announce the beta release of CLIP OS 5!</summary>
+      
+
+      
+      
+    </entry><entry>
+      <title type="html">Talk for the French academic research group for computer security</title>
+      <link href="https://clip-os.org/en/news/2019/06/27/gdr-2019-conference/" rel="alternate" type="text/html" title="Talk for the French academic research group for computer security" />
+      <published>2019-06-27T12:00:00+02:00</published>
+      <updated>2019-06-27T12:00:00+02:00</updated>
+      <id>https://clip-os.org/en/news/2019/06/27/gdr-2019-conference</id>
+      <content type="html" xml:base="https://clip-os.org/en/news/2019/06/27/gdr-2019-conference/">&lt;p&gt;Information about this talk is available on the &lt;a href=&quot;/en/talks&quot;&gt;Talks&lt;/a&gt; page.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>CLIP OS development team</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Information about this talk is available on the Talks page.</summary>
+      
+
+      
+      
+    </entry><entry>
+      <title type="html">Talk at Ready for IT 2019</title>
+      <link href="https://clip-os.org/en/news/2019/05/24/rfit-2019-conference/" rel="alternate" type="text/html" title="Talk at Ready for IT 2019" />
+      <published>2019-05-24T12:00:00+02:00</published>
+      <updated>2019-05-24T12:00:00+02:00</updated>
+      <id>https://clip-os.org/en/news/2019/05/24/rfit-2019-conference</id>
+      <content type="html" xml:base="https://clip-os.org/en/news/2019/05/24/rfit-2019-conference/">&lt;p&gt;Information about this talk is available on the &lt;a href=&quot;/en/talks&quot;&gt;Talks&lt;/a&gt; page.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>CLIP OS development team</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Information about this talk is available on the Talks page.</summary>
+      
+
+      
+      
+    </entry><entry>
+      <title type="html">Code review and discussion space now available</title>
+      <link href="https://clip-os.org/en/news/2018/12/20/gerrit-discourse-available/" rel="alternate" type="text/html" title="Code review and discussion space now available" />
+      <published>2018-12-20T12:00:00+01:00</published>
+      <updated>2018-12-20T12:00:00+01:00</updated>
+      <id>https://clip-os.org/en/news/2018/12/20/gerrit-discourse-available</id>
+      <content type="html" xml:base="https://clip-os.org/en/news/2018/12/20/gerrit-discourse-available/">&lt;p&gt;We have just finished the initial setup of
+&lt;a href=&quot;https://discuss.clip-os.org&quot;&gt;discuss.clip-os.org&lt;/a&gt; and
+&lt;a href=&quot;https://review.clip-os.org&quot;&gt;review.clip-os.org&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discuss.clip-os.org&quot;&gt;discuss.clip-os.org&lt;/a&gt; is a Discourse instance
+which will gather all discussions around the project;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://review.clip-os.org&quot;&gt;review.clip-os.org&lt;/a&gt; is a Gerrit instance which
+coordinates the submission and review of changes across multiple
+repositories. You may now submit your changes there. We will stop accepting
+GitHub pull requests soon.&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>CLIP OS development team</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">We have just finished the initial setup of discuss.clip-os.org and review.clip-os.org:</summary>
+      
+
+      
+      
+    </entry><entry>
+      <title type="html">Talk at the Paris Open Source Summit 2018</title>
+      <link href="https://clip-os.org/en/news/2018/12/20/poss-2018-conference/" rel="alternate" type="text/html" title="Talk at the Paris Open Source Summit 2018" />
+      <published>2018-12-20T11:00:00+01:00</published>
+      <updated>2018-12-20T11:00:00+01:00</updated>
+      <id>https://clip-os.org/en/news/2018/12/20/poss-2018-conference</id>
+      <content type="html" xml:base="https://clip-os.org/en/news/2018/12/20/poss-2018-conference/">&lt;p&gt;Information about this talk is available on the &lt;a href=&quot;/en/talks&quot;&gt;Talks&lt;/a&gt; page.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>CLIP OS development team</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Information about this talk is available on the Talks page.</summary>
+      
+
+      
+      
+    </entry>
+</feed>
