@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator>
+  <link href="https://clip-os.org/fr/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://clip-os.org/" rel="alternate" type="text/html" />
+  <updated>2018-09-20T14:48:56+02:00</updated>
+  <id>https://clip-os.org/</id>
+
+  
+    <title type="html">CLIP OS</title>
+  
+
+  
+
+  
+    <author>
+        <name>CLIP OS development team</name>
+      
+      
+    </author>
+  
+
+  
+  
+    <entry>
+      <title type="html">Première version alpha du projet CLIP OS</title>
+      <link href="https://clip-os.org/fr/news/2018/09/20/premiere-version-alpha-clipos/" rel="alternate" type="text/html" title="Première version alpha du projet CLIP OS" />
+      <published>2018-09-20T12:00:00+02:00</published>
+      <updated>2018-09-20T12:00:00+02:00</updated>
+      <id>https://clip-os.org/fr/news/2018/09/20/premiere-version-alpha-clipos</id>
+      <content type="html" xml:base="https://clip-os.org/fr/news/2018/09/20/premiere-version-alpha-clipos/">&lt;p&gt;Voici la première &lt;em&gt;release&lt;/em&gt; alpha de la version 5 du projet CLIP OS !&lt;/p&gt;
+
+&lt;p&gt;Nous vous invitons à lire la &lt;a href=&quot;/fr&quot;&gt;présentation générale du projet&lt;/a&gt; et la page
+dédiée à la &lt;a href=&quot;/fr/clipos5&quot;&gt;version 5&lt;/a&gt; sur laquelle vous trouverez les liens vers
+la documentation complète.&lt;/p&gt;
+
+&lt;p&gt;Pour être informé des prochaines sorties de version de CLIP OS, nous vous
+invitons à souscrire au &lt;a href=&quot;/fr/feed.xml&quot;&gt;flux RSS&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>CLIP OS development team</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Voici la première release alpha de la version 5 du projet CLIP OS !</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">First alpha release of the CLIP OS project</title>
+      <link href="https://clip-os.org/en/news/2018/09/20/first-clipos-alpha/" rel="alternate" type="text/html" title="First alpha release of the CLIP OS project" />
+      <published>2018-09-20T12:00:00+02:00</published>
+      <updated>2018-09-20T12:00:00+02:00</updated>
+      <id>https://clip-os.org/en/news/2018/09/20/first-clipos-alpha</id>
+      <content type="html" xml:base="https://clip-os.org/en/news/2018/09/20/first-clipos-alpha/">&lt;p&gt;We have just released the first alpha of the version 5 of the CLIP OS project!&lt;/p&gt;
+
+&lt;p&gt;Please read the &lt;a href=&quot;/en/&quot;&gt;general project presentation&lt;/a&gt; and the &lt;a href=&quot;/en/clipos5&quot;&gt;version
+5&lt;/a&gt; specific page where you will find links to the full
+documentation.&lt;/p&gt;
+
+&lt;p&gt;Please subscribe to the &lt;a href=&quot;/en/feed.xml&quot;&gt;RSS feed&lt;/a&gt; to be notified when we publish
+new releases.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>CLIP OS development team</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">We have just released the first alpha of the version 5 of the CLIP OS project!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
