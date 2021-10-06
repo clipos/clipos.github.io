@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
-  <generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator>
+  <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
   <link href="https://clip-os.org/fr/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://clip-os.org/" rel="alternate" type="text/html" />
-  <updated>2020-05-29T12:11:02+02:00</updated>
+  <updated>2021-10-06T13:22:55+02:00</updated>
   <id>https://clip-os.org/</id>
 
   
@@ -23,6 +23,37 @@
 
   
   <entry>
+      <title type="html">Arrêt de maintenance</title>
+      <link href="https://clip-os.org/fr/news/2021/10/06/fin-de-maintenance/" rel="alternate" type="text/html" title="Arrêt de maintenance" />
+      <published>2021-10-06T12:00:00+02:00</published>
+      <updated>2021-10-06T12:00:00+02:00</updated>
+      <id>https://clip-os.org/fr/news/2021/10/06/fin-de-maintenance</id>
+      <content type="html" xml:base="https://clip-os.org/fr/news/2021/10/06/fin-de-maintenance/">&lt;p&gt;Le projet CLIP OS de l’ANSSI est aujourd’hui un projet de recherche, il est
+livré tel quel sans garantie de développement régulier ni de maintenance.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>CLIP OS development team</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Le projet CLIP OS de l’ANSSI est aujourd’hui un projet de recherche, il est livré tel quel sans garantie de développement régulier ni de maintenance.</summary>
+      
+
+      
+      
+    </entry><entry>
       <title type="html">Sortie de CLIP OS 5 version béta !</title>
       <link href="https://clip-os.org/fr/news/2019/12/10/clipos-5-sortie-beta/" rel="alternate" type="text/html" title="Sortie de CLIP OS 5 version béta !" />
       <published>2019-12-10T11:00:00+01:00</published>
@@ -180,37 +211,6 @@ GitHub.&lt;/li&gt;
 
       
         <summary type="html">Nous venons de terminer la mise en place de discuss.clip-os.org et review.clip-os.org:</summary>
-      
-
-      
-      
-    </entry><entry>
-      <title type="html">Présentation au Paris Open Source Summit 2018</title>
-      <link href="https://clip-os.org/fr/news/2018/12/20/conference-poss-2018/" rel="alternate" type="text/html" title="Présentation au Paris Open Source Summit 2018" />
-      <published>2018-12-20T11:00:00+01:00</published>
-      <updated>2018-12-20T11:00:00+01:00</updated>
-      <id>https://clip-os.org/fr/news/2018/12/20/conference-poss-2018</id>
-      <content type="html" xml:base="https://clip-os.org/fr/news/2018/12/20/conference-poss-2018/">&lt;p&gt;Les informations à propos de cette présentation sont disponibles sur la page
-dédiée aux &lt;a href=&quot;/fr/talks&quot;&gt;présentations lors de conférences&lt;/a&gt;.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>CLIP OS development team</name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html">Les informations à propos de cette présentation sont disponibles sur la page dédiée aux présentations lors de conférences.</summary>
       
 
       
